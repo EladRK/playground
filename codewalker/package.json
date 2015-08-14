@@ -1,0 +1,15 @@
+{
+  "name": "codewalker",
+  "version": "2.0.0",
+  "description": "codewalker - traversing git & bash",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "github": "~0.2.4",
+    "express": "~4.13.3"
+  }
+}
